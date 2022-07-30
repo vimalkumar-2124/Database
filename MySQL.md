@@ -1,4 +1,4 @@
-# SQL query practice : (6002526)
+# SQL query practice : 
 - from [sqlbolt](https://sqlbolt.com/lesson)
 
 # Lesson 1 : SELECT queries 101
